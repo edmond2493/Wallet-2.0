@@ -5,7 +5,7 @@ import json
 import requests
 import pytz
 # import datetime
-API = "8d9740d7b76b17af76d8cec3"
+API = # Enter API here from https://www.exchangerate-api.com/
 
 
 class Functions:
